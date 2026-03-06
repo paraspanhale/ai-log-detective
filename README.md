@@ -23,7 +23,8 @@
 Option 1: Use the Live Cloud Version (Recommended)
 
 You can use the tool immediately without installing anything:
-👉 Launch AI Log Detective : 
+👉 Launch AI Log Detective : https://ai-log-detective-dun8j9maftwjayhnzzpdnq.streamlit.app/#ai-log-detective-multi-file-edition
+Now just upload your log files and get them analyzed
 
 ## 🛠 Prerequisites
 Ensure you have the following installed on your system:
