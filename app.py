@@ -1,5 +1,12 @@
 import streamlit as st
-import ollama
+from openai import OpenAI
+
+api_key = st.secrets["GROQ_API_KEY"]
+
+client = OpenAI(
+    api_key=api_key, 
+    base_url="https://api.groq.com/openai/v1"
+)
 
 st.set_page_config(page_title="AI Log Detective", layout="wide")
 st.title("🔍 AI Log Detective: Multi-File Edition")
