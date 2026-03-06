@@ -19,6 +19,12 @@
 
 ---
 
+🌐 Accessing the App
+Option 1: Use the Live Cloud Version (Recommended)
+
+You can use the tool immediately without installing anything:
+👉 Launch AI Log Detective : 
+
 ## 🛠 Prerequisites
 Ensure you have the following installed on your system:
 1. **[Ollama](https://ollama.com):** Required to run the local LLM.
