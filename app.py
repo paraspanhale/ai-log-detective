@@ -9,7 +9,7 @@ client = OpenAI(
 )
 
 st.set_page_config(page_title="AI Log Detective", layout="wide")
-st.title("🔍 AI Log Detective: Multi-File Edition")
+st.title("🔍 AI Log Detective: ")
 
 # Initialize session state for reports
 if 'reports' not in st.session_state:
