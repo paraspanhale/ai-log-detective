@@ -76,11 +76,3 @@ The browser will automatically open to http://localhost:8501.
    Download: Optionally click Download Summary to save the report.
 
    Clear: Click Clear Results to reset the UI for your next batch.
-
-📂 Project Structure
-
-ai-log-detective/
-├── app.py              # Core application logic
-├── requirements.txt    # Dependency manifest
-├── .gitignore          # Excludes venv/ and cache
-└── README.md           # Documentation
