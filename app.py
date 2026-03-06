@@ -3,7 +3,7 @@ from openai import OpenAI
 
 # Google Search Console Verification
 st.markdown("""
-    <meta name="google-site-verification" content="YOUR_COPIED_VERIFICATION_CODE_HERE" />
+    <meta name="google-site-verification" content="ilRzclukPv6v9UOIKSsIiBh1uHAS0c2WWLa_uUXO0gg" />
 """, unsafe_allow_html=True)
 
 # 1. Page Configuration
